@@ -1,6 +1,9 @@
 # intenseye
 intenseye CV task
 
+Aşağıdaki komut ile çalıştırılabilir:
+
+python DetectingShapes.py
 
 
 
