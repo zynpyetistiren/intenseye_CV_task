@@ -5,6 +5,7 @@ Aşağıdaki komut ile çalıştırılabilir:
 
 python DetectingShapes.py
 
+!Çember bulma algoritmasında sadece üst, sağ, sol, alt ve köşelere bakıldığından, bazen beşgen ve altıgenleri de çember olarak algılayabiliyor. Bu nokta geliştirilebilir!
 
 
 Main Algoritma:
